@@ -55,3 +55,9 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Added at 2018-03-27 15:06:10 +1000 by claytonwaldock:
 gem "devise", "~> 4.4"
+
+# Added at 2018-03-28 14:11:21 +1000 by claytonwaldock:
+gem "carrierwave", "~> 1.2"
+
+# Added at 2018-03-28 14:11:33 +1000 by claytonwaldock:
+gem "cloudinary", "~> 1.9"
